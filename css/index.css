@@ -139,6 +139,46 @@ img.header-about-img {
     justify-content: center;
 }
 
+.middle-content  div  div.box.teal {
+    background-color: teal;
+}
+
+.middle-content  div  div.box.gold {
+    background-color: gold;
+}
+
+.middle-content  div  div.box.cadetblue {
+    background-color: cadetblue;
+}
+
+.middle-content  div  div.box.coral {
+    background-color: coral;
+}
+
+.middle-content  div  div.box.crimson {
+    background-color: crimson;
+}
+
+.middle-content  div  div.box.forestgreen {
+    background-color: forestgreen;
+}
+
+.middle-content  div  div.box.darkorchid {
+    background-color: darkorchid;
+}
+
+.middle-content  div  div.box.hotpink {
+    background-color: hotpink;
+}
+
+.middle-content  div  div.box.indigo {
+    background-color: indigo;
+}
+
+.middle-content  div  div.box.dodgerblue {
+    background-color: dodgerblue;
+}
+
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -196,9 +236,22 @@ footer nav a {
 
 .mid-box {
     width: 370px;
-    height: 380px;
+    height: 418px;
     margin: 22px 0;
     border-bottom: 1px dashed black;
+}
+
+.mid-box h2 {
+    margin-top: 8px
+}
+
+.mid-box button {
+    padding: 8px 29px;
+    border: 1.5px solid black;
+    border-radius: 6px;
+    text-align: center;
+    font-size: 13px;
+    margin: 15px 0;
 }
 
 .bottom-content-about {
