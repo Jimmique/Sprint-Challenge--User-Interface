@@ -71,6 +71,11 @@ p {
     margin: 0 auto;
 }
 
+.about-page {
+    width: 800px;
+    margin: 0 auto;
+}
+
 header {
     display: flex;
     flex-direction: row;
@@ -86,6 +91,10 @@ header nav a {
 }
 
 img.header-img {
+    margin-bottom: 20px;
+}
+
+img.header-about-img {
     margin-bottom: 20px;
 }
 
@@ -161,4 +170,20 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+
+.mid-content-about .boxes-about-row-1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.mid-content-about .boxes-about-row-2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.mid-box {
+    width: 370px;
+    height: 380px;
+    margin: 22px 0;
 }
