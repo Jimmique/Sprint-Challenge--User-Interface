@@ -220,7 +220,7 @@ footer nav a {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    margin-bottom: 20px;
+    margin-bottom: 21px;
     border-bottom: 1px dashed black;
 }
 
